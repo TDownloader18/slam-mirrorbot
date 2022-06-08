@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "telegramdownloader",
+  "private_key_id": "5b6ce5cb99154dec9dd2b766b3adc289174d7f17",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC0y5/fedoY2Gws\nDg6RuDHGt3lnYGmOMUwM7Wf/puITsMuPBBQzI+1zgHktxLOkVb3eUiqnenjO2cjs\nYNIxYG0ipkK+s7coEdFuSwT10SkY4p213qDTdOEeCzWNEme1JHUtZ93eLuvXCjgC\nS/NFCXCeQgJh/ODhyF7IgWxG3FoXlRpmYBoI8fSx+2rHydoNIfhB6TRVTqb3/vch\nF44DkK9NofIWNdGWuthGl2l9zR7lbKVC76v0xoy76Rojnv2D5JNU8Uwskdah/Rgl\nb8M/6C1NN1GSVaSrGGWUT/UaQhVJxie+pwZgvhULKBJEUWvk/BkybmawZhfXKBK4\nwLbgBddlAgMBAAECggEAG2pPOBI1rhPPX2TS9RTTHiN/RNucAK8IAw59o94t+mIS\nPqxrKxAVIdvG7wJHYrGKb5Z9F6qyJrJj+I18AiHG8CdPCApKHp4zvapMOmxOSOhA\nQFkIgS2ANM/qqGrfOrAoa/YL8PT41+xu7tDj4ZbwsrF8GVjBJGuqYnQsXkMWuZbQ\nr3W/74pHH9H5Lasbsa+pFBYxE61eDkMzDtcCAf/vmjCy+au6f3EA2PNEhCPpnrgs\nSs0/ZvqHT/Z7P8JyIw3ZdU7F4JB2QkqUOPnzTPeiEA0RPRyoilWB5AREyo3tl/YI\nnm4SW615nfwWTctBxr1IA+xUZZopGpsJmz2HpjpfFwKBgQDkHvDfbZZ/t5EAsrCK\nEuEc7GL8S7KzcZ0kqVGRjermZGsNqqrGW2k1eNKH3aO72wOiVpNidgIFXdQ1mW4l\nRGQXnviN9r48yVH4FGB7xkQvu7tzt3F+aMWgnLJMy0XJmjCN10r0MuUIcGGMNkYV\nXYX+HgJnpHVEsmfm2/DprsOALwKBgQDK5AuBaf2z9Y6wYeq1D7TqpGHLTHvkHNuS\n0EQwZE3LS3tKLifgOIUEBPujwr8aN7b5ZIa3pffDMzANJPuWmkW7jaR6EOUcCkli\n+iikOgcSYubhMehGlpeT2cKRbw0fLfOnWOEzWgst8YwsfWqsqreHrMr1A8t0Unvx\nxlzPpD5IqwKBgA4g6HQ+GlMgsGdlqc9zaePbtCnCGnhIsh3iKr4kFwdb8tFu35LX\neIWqTQfDL2/kGa6FRC2V93wTmqATN6IxQS3BV82bGZ80LNJ7mJox5mk6bFq3Yt0c\nahkPe2+MK29YEGfIjMjhGhRSuYfwmJicKT9a5nU611SA5DSFLL+cZllbAoGARQfW\nClAfq80OoWCPVM9lRLhtNZhuRqyy4H7P1I8sENE7v394vcc9KqLvY0ZtcuQl8zCK\nzY1AgT+3R6GfoBwZQbjtj0KUUTgGxBBNJ6M+qLjRySkL2IiARiO/GXBpTIR79CI/\nbRNj3lviz3hUhS8Ihrb5zuddn9Q4q4hMJ7HAJ0UCgYBFWcysPLzCmau5RsN0Ax05\neXIYWjlEg9tgKTr9KclnxcQRpxwH+q03Yyl+hGbdw3BLST0zTyy6h5MOQ8wqjfUX\nbt0u48UNWqGuidjqrXjajBKxymmZ4HQTFOjDGjnIZWlEiOglEcRtjf6MaOX5JViU\nnIHE4rl+l8comMxUOICJ/A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-aaczjdpnufv7pjwrzfrl5fbcnv@telegramdownloader.iam.gserviceaccount.com",
+  "client_id": "106801319156518995060",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-aaczjdpnufv7pjwrzfrl5fbcnv%40telegramdownloader.iam.gserviceaccount.com"
+}
